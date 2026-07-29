@@ -150,9 +150,6 @@ This makes it easy to compare the model's predictions with the actual labels.
 
 ## Future Improvements
 
-- Hyperparameter tuning using GridSearchCV
-- Feature importance visualization
-- Model comparison with XGBoost and LightGBM
 - Web interface using Flask or Streamlit
 - REST API for predictions
 
