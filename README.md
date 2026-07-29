@@ -107,7 +107,7 @@ git clone https://github.com/Mohitr2006/Loan-Approval-Predicator.git
 Move into the project directory:
 
 ```bash
-cd Loan-Approval-Prediction
+cd Loan-Approval-Predicator
 ```
 
 Install the required packages:
