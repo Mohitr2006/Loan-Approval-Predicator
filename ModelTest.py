@@ -69,7 +69,7 @@ log_reg = LogisticRegression()
 scores = cross_val_score(
     log_reg,
     loan_prepared,
-    y_train.squeeze(),
+    y_train,
     scoring="accuracy",
     cv=10
 )
