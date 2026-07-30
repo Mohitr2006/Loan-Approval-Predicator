@@ -96,7 +96,7 @@ if not (
 
     joblib.dump(model, MODEL_FILE)
     joblib.dump(pipeline, PIPELINE_FILE)
-    print("Model is Traiined")
+    print("Model is Trained")
     inference(MODEL_FILE, PIPELINE_FILE)
 
 else:
